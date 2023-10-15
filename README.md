@@ -3,4 +3,4 @@
 My professional goal is to be a Web Developer.
 ### Current technologies I'm learning are CSS, JavaScript, and HTML
 
-! [KeychvsPageBanner](https://raw.githubusercontent.com/keychvs/keychvs.github.io/main/Keanna.jpg)
+! [KeychvsPageBanner](https://raw.githubusercontent.com/keychvs/keychvs.github.io/main/Keanna.jpg}
