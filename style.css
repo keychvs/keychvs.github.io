@@ -1,0 +1,27 @@
+html {
+  height: 200%;
+  width: 100%;
+}
+
+  h1 {
+    color: #970C10;
+  }
+
+  h2 {
+    color: red;
+  }
+
+  h {
+    font-size: 0.9em;
+    margin-top: 0.33em;
+  }
+
+  h2 {
+    color: #970C10;
+  }
+
+.myDiv {
+height:150%;
+width: 95%;
+background-color: yellow;
+
